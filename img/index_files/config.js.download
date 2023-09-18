@@ -1,0 +1,6 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C7ESEU1G5FFTO2SM3FM0").setAdvancedMatchingAvailableProperties({"email":true,"phone_number":false,"auto_email":false,"auto_phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C7ESEU1G5FFTO2SM3FM0").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C7ESEU1G5FFTO2SM3FM0").setPixelInfo({status: 0, name: "afrikrea-production", advertiserID: "7032315421663477762", setupMode: 1, partner: "None", is_onsite: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("afrikrea.com");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
+window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie && window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie(true);
